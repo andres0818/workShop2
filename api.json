@@ -1,0 +1,111 @@
+{
+    "Peliculas":[
+    {
+        "nombre":"black adam",
+        "genero":"Accion",
+        "puntaje":"7.0",
+        "imagen":"https://pics.filmaffinity.com/Black_Adam-333825779-large.jpg"
+    },
+    {
+        "nombre":"she hulk",
+        "genero":"Ciencia Ficcion",
+        "puntaje":"6.7",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4ie82rXFa1rAJ9qTWoCvlljglLJ.jpg"
+    },{
+        "nombre":"pinocho",
+        "genero":"Fantasia",
+        "puntaje":"6.7",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1yIM2QL0qLzWMjTGuMX12yZnBtb.jpg"
+    },{
+        "nombre":"Sonic 2",
+        "genero":"Accion",
+        "puntaje":"7.6",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg"
+    },{
+        "nombre":"Sin novedad en el frente",
+        "genero":"Bélica",
+        "puntaje":"7.8",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jPYPRS7LVmLDXGJ7VfBjXaV9eZr.jpg"
+    },{
+        "nombre":"Dahmer",
+        "genero":"Crimen",
+        "puntaje":"8.2",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vlUMBgKO1HOwPMJwHnHzr99BHwN.jpg"
+    },{
+        "nombre":"Chucky",
+        "genero":"Terror",
+        "puntaje":"7.9",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg"
+    },{
+        "nombre":"Sobredosis",
+        "genero":"Accion",
+        "puntaje":"6.6",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1Mxb68Eg5jCvZwfFG3QjMS5ysGJ.jpg"
+    },{
+        "nombre":"Spy x Family",
+        "genero":"Animacion",
+        "puntaje":"8.7",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3r4LYFuXrg3G8fepysr4xSLWnQL.jpg"
+    },{
+        "nombre":"Spider-Man",
+        "genero":"Accion",
+        "puntaje":"80",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/miZFgV81xG324rpUknQX8dtXuBl.jpg"
+    },{
+        "nombre":"El señor de los anillos: los anillos del poder",
+        "genero":"Aventura",
+        "puntaje":"7.6",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/suvlZfDAoq5vfVUrfb468KJhFlL.jpg"
+    },{
+        "nombre":"Full alchenist: la alquimia final",
+        "genero":"Aventura",
+        "puntaje":"6.3",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQQXEMsukZ2Okd98LCrL33q7tFH.jpg"
+    },{
+        "nombre":"Peaky blinders",
+        "genero":"Crimen",
+        "puntaje":"8.6",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tNjutGgaJpP30xUhfHihbcDgQUu.jpg"
+    },{
+        "nombre":"La casa del dragon",
+        "genero":"Fantasia",
+        "puntaje":"8.6",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fAos5hPi7TB49KpuIAjvQNZkvwM.jpg"
+    },{
+        "nombre":"The good doctor",
+        "genero":"Drama",
+        "puntaje":"8.5",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eCvGVqmxXcNvLMJxLAJeBZ2cUnM.jpg"
+    },{
+        "nombre":"Enola holmes 2",
+        "genero":"Misterio",
+        "puntaje":"7.8",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kaWoUugp3ZWgVsahtyjtWuo9hBi.jpg"
+    },{
+        "nombre":"Anatomia de grey",
+        "genero":"Drama",
+        "puntaje":"8.3",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jPzW61WlkyHVdvm8dCQZveTvmgW.jpg"
+    },{
+        "nombre":"Los simpsom",
+        "genero":"Comedia",
+        "puntaje":"8.0",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t3qZAygWwd7sX6G9ae2a4R2Wbrh.jpg"
+    },{
+        "nombre":"Doctor strange en el multiverso de la locura",
+        "genero":"Accion",
+        "puntaje":"7.4",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uOnutpXJdDWyWzUCkApkahPSKuy.jpg"
+    },{
+        "nombre":"Black panther",
+        "genero":"Accion",
+        "puntaje":"7.6",
+        "imagen":"https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOA8qkI3VvZNPGHv6uj7DdoL1Pz.jpg"
+    }
+    ]
+    }
+    
+    
+    
+    
+    

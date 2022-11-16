@@ -1,0 +1,157 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background: rgb(215, 214, 214);
+	color: #1d1d1d;
+	display: flex;
+}
+label{
+	color: white;
+}
+.logo{
+	width: 40%;
+	height: 25px;	
+}
+.logo img{
+width: 30px;
+height: 25px;
+}
+.nav-bar{
+	cursor: pointer;
+	padding: 10px;
+	position: fixed;
+	width: 100%;
+	background: #100a1f;
+	display: flex;	
+	gap: 20px;
+	z-index: 1;
+	justify-content: center;
+}
+input:hover{
+ transform: scale(120%);
+}
+
+#lupa{
+	width: 32px;
+	height: 32px;
+}
+.buscador-lupa{
+	display: flex;
+	flex-direction: row-reverse;	
+}
+
+.contenedor {
+	width: 90%;
+	max-width: 1000px;
+	margin: 40px auto 100px auto;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 40px;
+}
+.pelicula{
+	cursor: pointer;
+	margin-top: 50px;
+	background:  #100a1f;
+	border-radius: 10px;
+	position: relative;
+	
+}
+
+.pelicula:hover{
+	transform: rotate(10deg) scale(120%);
+	z-index: 2;
+}
+.contenedor .pelicula {
+	text-align: center;
+}
+
+.pelicula::before{	
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		content: '';
+		background: rgb(0, 0, 0);
+		height: 100%;
+		width: 100%;
+		filter: blur(10px);
+		z-index: -1;
+}
+.contenedor .pelicula .titulo {
+	font-size: 16px;
+	font-weight: 600;
+}
+
+.contenedor .pelicula .poster {
+	width: 100%;
+	margin-bottom: 10px;
+	border-radius: 15px 15px 0 0;
+}
+
+.paginacion {
+	bottom: 0;
+	background: #100a1f;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	padding: 10px;
+}
+
+
+.paginacion button {
+	cursor: pointer;
+	border: none;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	height: 50px;
+	width: 200px;
+	background: #241744;
+	color: #fff;
+	border-radius: 100px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	transition: .3s ease all;
+}
+input{
+	width: 210%;
+	height: 35px;
+	border-radius: 10px;
+}
+span{
+	color: #767575;
+}
+
+.paginacion button:hover {
+	background: #137c32;
+}
+
+h3,h2{
+	color: white;
+}
+
+
+@media (max-width:844px) {
+	.contenedor{
+		display: grid;
+		grid-template-columns: repeat(1,1fr);
+	}
+	.pelicula{
+		gap: 20;
+		margin: 15% 10% -10% 10%;
+	}
+
+	.nav-bar{		
+		display: flex;
+		justify-content: center;
+	}
+	.logo{
+		width:60%
+	}
+}
